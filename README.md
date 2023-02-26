@@ -2,7 +2,7 @@
 
 a) Briefly explain the work that you did on this project: 
 
-    1.What code were you given? What code did you create yourself?
+    1. What code were you given? What code did you create yourself?
     For this project, I was tasked with training an Intelligent Agent to navigate a maze to find hidden treasure. Most of the code was given including the environment, the Experience for Replay, the building of the neural network model, and the play game. The code I created myself was the Q-Training Algorithm.
 
 b) Connect your learning throughout this course to the larger field of computer science:
